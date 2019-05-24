@@ -1,0 +1,4 @@
+2019-05-24T13:42:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\trusthegoat\wp-content\plugins\elementor\includes\controls\base-ui.php on line 4
+
+2019-05-24T13:42:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\trusthegoat\wp-content\plugins\elementor\includes\widgets\testimonial.php on line 4
+
